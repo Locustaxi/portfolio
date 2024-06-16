@@ -37,7 +37,7 @@
         },
         {
             "tooltip": "+91 8610321497",
-            "url": "tel:+918610321497",
+            "url": "tel:+91 8610321497",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome"
@@ -406,9 +406,9 @@
         }
     ],
     "bottomBanner": {
-        "message": "Portfolio open source -",
-        "displayLink": "Forkez-le",
-        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+        "message": "© droits d'auteur -",
+        "displayLink": "Ailes de feu",
+        "linkUrl": ""
     },
     "portfolio": "Portfolio",
     "homeSectionTitle": "Accueil",

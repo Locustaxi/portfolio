@@ -1,11 +1,11 @@
 {
-    "name": "Aladdine Abdou",
-    "description": "Développeur Mobile",
-    "subDescription": "Passionné par Flutter & Python",
+    "name": "Anand",
+    "description": "Développeur d'applications Web, mobiles et Windows",
+    "subDescription": "Flutter, iOS, Swift, Objective C, PHP, Nodejs, Reactjs",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome"
@@ -13,7 +13,7 @@
         },
         {
             "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
+            "url": "",
             "icon": {
                 "codePoint": "0xf0ea",
                 "fontFamily": "FontAwesome"
@@ -21,23 +21,23 @@
         },
         {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "locustaxi@gmail.com",
+            "url": "mailto:locustaxi@gmail.com",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+91 8610321497",
+            "url": "tel:+918610321497",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome"
@@ -47,14 +47,14 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+            "url": "https://docs.google.com/document/d/1EECVA95_1aztKuJL7WSuwaf1ix3rQYaL/edit?usp=drivesdk&ouid=102683524043202597179&rtpof=true&sd=true"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://docs.google.com/document/d/1EECVA95_1aztKuJL7WSuwaf1ix3rQYaL/edit?usp=drivesdk&ouid=102683524043202597179&rtpof=true&sd=true"
         }
     ],
-    "aboutDescription": "Salut ! Je m'appelle Aladdine, et je suis apprenti développeur en quatrième année de Mobilité et Objets Connectés à l'ESGI Paris. Passionné par l'écosystème mobile, je combine mes études et mon expérience professionnelle pour créer des applications intuitives et riches en fonctionnalités.\nJ'aspire à mettre mes compétences au service de projets inspirants et challengeant.",
+    "aboutDescription": "Je suis un développeur d'applications expérimenté avec plus de 12 ans d'expérience dans le développement Web, iOS, Android et SEO avec PHP, .Net, Objective C, Swift, Flutter et Android. Je peux vous proposer une application de haute qualité pour votre plus grande satisfaction.\nJ'ai réalisé plus de 30 applications. Mes projets importants sont\n1.Pet Care App\n2. Application de blanchisserie\n3. Application de livraison de nourriture\n4. Application GRH\n5. Application de livraison\n6. Application Taxi\n7. Application de gestion scolaire\n8. Application d'achats en ligne (commerce électronique)\n9. GRH\n10. Application de lavage de voiture\n11. Application Fitness - Diffusion de séances d'entraînement\n12. Application Instagram pour les entreprises\n13. Application de prise de rendez-vous chez le médecin\n14. Application de chat comme l'application What'sapp\n15. Logiciel de facturation en ligne\n16. Application de réseautage social",
     "experiences": [
         {
             "role": "Développeur Mobile",

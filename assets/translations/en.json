@@ -1,7 +1,7 @@
 {
-    "name": "Anand",
-    "description": "Web, Mobile, Windows App Developer",
-    "subDescription": "Flutter, iOS, Swift, Objective C, PHP, Nodejs, Reactjs",
+    "name": "Anand MK",
+    "description": "Web, Android, iOS, Windows App Developer",
+    "subDescription": "Flutter, iOS, Swift, Objective C, Android, PHP, Nodejs, Reactjs",
     "contacts": [
         {
             "tooltip": "Github",
@@ -54,11 +54,11 @@
             "url": "https://docs.google.com/document/d/1EECVA95_1aztKuJL7WSuwaf1ix3rQYaL/edit?usp=drivesdk&ouid=102683524043202597179&rtpof=true&sd=true"
         }
     ],
-    "aboutDescription": "I am an experienced app developer with 12+yrs of experience in Web, iOS, android and SEO development using PHP, .Net, Objective C, Swift, Flutter,  and Android. I can give you a high-quality app to your fullest satisfaction.\nI have done more than 30+ apps. My Significant projects are\n1.Pet Care App\n2. Laundry App\n3. Food Delivery App\n4. HRM App\n5. Delivery App\n6. Taxi App\n7. School Management App\n8. Online Shopping(E-Commerce) App\n9. HRM\n10. Car wash App\n11. Fitness App - Broadcasting training sessions\n12. Instagram like app for business\n13. Doctors appointment booking App\n14. Chat app like What'sapp App\n15. Online Billing Software\n16. Social Networking App",
+    "aboutDescription": "I am an experienced app developer with 13+yrs of experience in Web, iOS, android and SEO development using PHP, .Net, Objective C, Swift, Flutter,  and Android. I can give you a high-quality app to your fullest satisfaction.\n\nI have done more than 30+ apps. My Significant projects are\n\n1.Pet Care App\n2. Laundry App\n3. Food Delivery App\n4. HRM App\n5. Delivery App\n6. Taxi App\n7. School Management App\n8. Online Shopping(E-Commerce) App\n9. HRM\n10. Car wash App\n11. Fitness App - Broadcasting training sessions\n12. Instagram like app for business\n13. Doctors appointment booking App\n14. Chat app like What'sapp App\n15. Online Billing Software\n16. Social Networking App",
     "experiences": [
         {
-            "role": "Mobile App Developer",
-            "company": "Walt Disney Imagineering",
+            "role": "Flutter Technical Lead",
+            "company": " - ",
             "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
             "isPresent": false,
             "startYear": 2022,
@@ -119,7 +119,7 @@
             "links": [
                 {
                     "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
+                    "display": "IVA Fusion Code"
                 }
             ]
         },
@@ -406,7 +406,7 @@
         }
     ],
     "bottomBanner": {
-        "message": "© Copyright -",
+        "message": "Copyrights © 2023 - 2024",
         "displayLink": "Firewings",
         "linkUrl": ""
     },

@@ -18,6 +18,7 @@ class EndDrawer extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
+    bool isLanguage = false;
     if (Responsive.isDesktop(context)) return const SizedBox.shrink();
     return Drawer(
       backgroundColor: Theme.of(context).colorScheme.secondary,
@@ -89,11 +90,13 @@ class EndDrawer extends ConsumerWidget {
                         ),
                       ),
                       gapH80,
-                      AnimatedFadeSlide(
-                        offset: const Offset(0, 64),
-                        duration: const Duration(milliseconds: 350),
-                        child: _buildLocaleButton(context, ref),
-                      ),
+                      isLanguage == false
+                          ? Container()
+                          : AnimatedFadeSlide(
+                              offset: const Offset(0, 64),
+                              duration: const Duration(milliseconds: 350),
+                              child: _buildLocaleButton(context, ref),
+                            ),
                       gapH40,
                     ],
                   ),

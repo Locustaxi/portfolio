@@ -76,7 +76,7 @@ Here's the template of a JSON translation file:
         "fontFamily": "FontAwesome", // Font family for the icon (e.g., FontAwesome), can be obtained from https://github.com/chouhan-rahul/icons_plus/tree/main/lib/src. If the assetName is used, this property must be null.
         "color": "0xffffffff" // Hexadecimal color for the icon.
       },
-      "screenshotPath": "assets/images/portfolio.png", // screenshot asset path of the project
+      "screenshotPath": "assets/images/ecom_app.jpg", // screenshot asset path of the project
       "technologies": [
         "Flutter" // Technologies used in this project
       ],

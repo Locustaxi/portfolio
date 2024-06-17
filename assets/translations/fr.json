@@ -204,7 +204,7 @@
     "present": "Présent",
     "projects": [
         {
-            "name": "Portfolio",
+            "name": "Ecom",
             "description": "Ce projet open source permet à toute personne de disposer d’un portfolio en ligne en moins de 10 minutes. Il adopte une architecture basée sur Riverpod en suivant une approche feature-first pour sa structure. Il est entièrement responsive, et prend en charge plusieurs thèmes ainsi que plusieurs langues.",
             "url": "https://github.com/AladdineDev/portfolio#readme",
             "icon": {
@@ -212,7 +212,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/portfolio.png",
+            "screenshotPath": "assets/images/ecom_app.jpg",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -235,7 +235,7 @@
             ]
         },
         {
-            "name": "Learn Flow API",
+            "name": "HR BOT",
             "description": "Learn Flow est un projet de groupe visant à créer une solution de mise en relation d'élèves et d'enseignants. Cette API REST sert d'interface pour les différents clients du projet (Android, iOS et Web). Elle offre notamment des fonctionnalités d'authentification avec JWT.",
             "url": "https://github.com/AladdineDev/learnflow-api#readme",
             "icon": {
@@ -243,7 +243,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-api.png",
+            "screenshotPath": "assets/images/hr_bot.jpg",
             "technologies": [
                 {
                     "name": "Node.js",
@@ -279,7 +279,7 @@
             ]
         },
         {
-            "name": "Learn Flow Backoffice",
+            "name": "Job Portal",
             "description": "Il s'agit du back-office conçu pour les managers du projet Learn Flow. Cette Single-Page App leur permet de surveiller l'activité de leurs applications et utilisateurs (trafic, factures...).",
             "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
             "icon": {
@@ -287,7 +287,7 @@
                 "fontFamily": "FontAwesome",
                 "color": "0xffffffff"
             },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "screenshotPath": "assets/images/job_portal.png",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -299,89 +299,6 @@
                     "name": "Dart",
                     "icon": {
                         "assetName": "assets/icons/other/dart.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "GSB-Frais est une application web de gestion des frais, développée pour les délégués médicaux et les comptables de l'entreprise fictive GSB. Elle facilite la saisie et la vérification des rapports mensuels des délégués médicaux, tout en permettant aux comptables de les traiter.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "L'API REST du projet GSB sert d'interface pour les différents clients du projet (Android, Desktop et Web).",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
-            "technologies": [
-                {
-                    "name": "Flask",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flask.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
                     }
                 }
             ]

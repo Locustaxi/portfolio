@@ -1,6 +1,7 @@
 name: portfolio
 description: Portfolio developed in flutter.
 publish_to: 'none'
+# Flutter version :- 3.22.2
 
 version: 1.0.0+1
 
